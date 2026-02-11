@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Diego Mejia, a systems engineer based in Bolivia.
+I build anything you can imagine.
+My main stack is Go, PostgreSQL, TypeScript, Astro and React. My favorite tools are figma and slack.
+
+Fun facts:
+- I have a dog
+- I am an introverted person
+- Hobbies: Anime, Videogames
 <!--
 **mego94/mego94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
